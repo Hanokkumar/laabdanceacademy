@@ -1,0 +1,21 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/(site)/classes/page": "app/(site)/classes/page.js",
+  "/(site)/about/page": "app/(site)/about/page.js",
+  "/(site)/contact/page": "app/(site)/contact/page.js",
+  "/(site)/blog/page": "app/(site)/blog/page.js",
+  "/(site)/page": "app/(site)/page.js",
+  "/admin/(cms)/dance-school/page": "app/admin/(cms)/dance-school/page.js",
+  "/admin/(cms)/events/new/page": "app/admin/(cms)/events/new/page.js",
+  "/admin/(cms)/blog/page": "app/admin/(cms)/blog/page.js",
+  "/admin/(cms)/events/[id]/edit/page": "app/admin/(cms)/events/[id]/edit/page.js",
+  "/admin/(cms)/gallery/page": "app/admin/(cms)/gallery/page.js",
+  "/admin/(cms)/page": "app/admin/(cms)/page.js",
+  "/admin/(cms)/events/page": "app/admin/(cms)/events/page.js",
+  "/(site)/events/page": "app/(site)/events/page.js",
+  "/(site)/blog/[slug]/page": "app/(site)/blog/[slug]/page.js",
+  "/admin/(cms)/instructors/page": "app/admin/(cms)/instructors/page.js",
+  "/admin/(cms)/schedule/page": "app/admin/(cms)/schedule/page.js",
+  "/admin/(cms)/testimonials/page": "app/admin/(cms)/testimonials/page.js"
+}
