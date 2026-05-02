@@ -1,4 +1,4 @@
-// File: C:\Users\Hanok Kumar\OneDrive\Documents\GitHub\GitAthenaEdge\EmergentDanceCode\nextjs\src\app\layout.tsx
+// File: C:\Users\Hanok Kumar\OneDrive\Documents\GitHub\GitAthenaEdge\NewLaabDanceWebsite\laabdanceacademy\nextjs\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
