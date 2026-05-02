@@ -20,6 +20,8 @@ const AboutPage = () => {
   const [ref2, isVisible2] = useScrollAnimation();
   const [ref3, isVisible3] = useScrollAnimation();
   const router = useRouter();
+  const imgMain = aboutData.image;
+  const imgSecondary = instructors[0]?.image || aboutData.image;
 
   return (
     <>
