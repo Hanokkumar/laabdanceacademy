@@ -1904,6 +1904,10 @@ video {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
+.rounded-l-lg {
+  border-top-left-radius: var(--radius);
+  border-bottom-left-radius: var(--radius);
+}
 .rounded-tl-lg {
   border-top-left-radius: var(--radius);
 }
@@ -3251,6 +3255,10 @@ code {
 
 .hover\:pl-5:hover {
   padding-left: 1.25rem;
+}
+
+.hover\:pr-5:hover {
+  padding-right: 1.25rem;
 }
 
 .hover\:text-accent-foreground:hover {

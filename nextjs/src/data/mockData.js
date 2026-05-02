@@ -28,7 +28,7 @@ export const heroSlides = [
     description:
       'Move to the beat, sweat with a smile. High-energy Zumba sessions that blend cardio, Latin rhythms, and pure fun — all levels welcome.',
       image: `${BASE_IMG}/2025/02/bnr-main-2.png`,
-      bgImage: 'https://images.unsplash.com/photo-1508807526345-15e9b5f4eaff?w=1920&q=80',
+      bgImage: 'https://images.unsplash.com/photo-1518611012118-696072aa579a?w=1920&q=80',
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ export const heroSlides = [
     description:
       'Choreography for stages, celebrations, and brands. From showcases to corporate gigs — we bring professional dance and unforgettable moments to your event.',
       image: `${BASE_IMG}/2025/02/bnr-main-2.png`,
-      bgImage: 'https://images.unsplash.com/photo-1524594152303-9fd13543fe6e?w=1920&q=80',
+      bgImage: 'https://images.unsplash.com/photo-1540317580384-e5d43616b9aa?w=1920&q=80',
   },
 ];
 

@@ -25,7 +25,7 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
       <button
         type="button"
         onClick={() => setIsJoinModalOpen(true)}
-        className="fixed left-0 top-1/2 -translate-y-1/2 z-[90] bg-primary hover:bg-primary/90 text-white font-manrope font-semibold px-3 py-4 rounded-r-lg shadow-lg shadow-primary/30 transition-all duration-300 hover:pl-5 group"
+        className="fixed right-0 top-1/2 -translate-y-1/2 z-[90] bg-primary hover:bg-primary/90 text-white font-manrope font-semibold px-3 py-4 rounded-l-lg shadow-lg shadow-primary/30 transition-all duration-300 hover:pr-5 group"
         style={{ writingMode: 'vertical-rl', textOrientation: 'mixed' }}
         aria-label="Join Class"
       >
