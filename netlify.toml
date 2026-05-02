@@ -1,6 +1,9 @@
 [build]
   base = "nextjs"
   command = "npm run build"
+  # Keep publish different from base to satisfy @netlify/plugin-nextjs validation.
+  # The plugin will manage final Next.js outputs.
+  publish = ".netlify/publish"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
